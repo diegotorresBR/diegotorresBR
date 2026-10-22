@@ -24,8 +24,8 @@
 -  **Large Language Models (LLMs)** & **LLMs Locais**
 -  **Retrieval-Augmented Generation (RAG)**
 -  **Multi-agent workflows**
--  **Model Context Protocol (MCP)** LLMs e IA Skills (**Gemini CLI**)
--  **Quantum Computing** *(Iniciando / Starting)*
+-  **Model Context Protocol (MCP)** LLMs & IA Skills (**Gemini CLI**)
+-  **Quantum Computing** *(Starting)*
 
 ---
 
